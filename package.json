@@ -1,6 +1,6 @@
 {
   "name": "indeed-search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Command line application that uses the Indeed.com API to search for jobs given a job and location.",
   "main": "indeed.js",
   "dependencies": {},
