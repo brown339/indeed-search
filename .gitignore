@@ -26,6 +26,7 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+<<<<<<< HEAD
 
 # =========================
 # Operating System Files
@@ -73,3 +74,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+=======
+>>>>>>> b5141a215f2c683123211610048b64199c89caa5
