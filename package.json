@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brown339/indeed_search.git"
+    "url": "https://github.com/brown339/indeed-search.git"
   },
   "author": "John Brown",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brown339/indeed_search/issues"
+    "url": "https://github.com/brown339/indeed-search/issues"
   },
-  "homepage": "https://github.com/brown339/indeed_search"
+  "homepage": "https://github.com/brown339/indeed-search"
 }
